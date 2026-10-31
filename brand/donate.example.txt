@@ -1,0 +1,11 @@
+# Copy this file to donate.txt and fill in what the family uses.
+# Leave a line empty if it is not used. Lines starting with # are ignored.
+GCash name:
+GCash number:
+Bank name:
+Bank account name:
+Bank account number:
+Bank other details:
+PayPal email:
+PayPal link:
+Facebook page:

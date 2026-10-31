@@ -1,0 +1,49 @@
+{
+  "_copy-OuSB_KiR.js": {
+    "file": "assets/copy-OuSB_KiR.js",
+    "name": "copy"
+  },
+  "node_modules/@fontsource-variable/lora/files/lora-latin-wght-italic.woff2": {
+    "file": "assets/lora-latin-wght-italic-DBI-iqMr.woff2",
+    "src": "node_modules/@fontsource-variable/lora/files/lora-latin-wght-italic.woff2"
+  },
+  "node_modules/@fontsource-variable/lora/files/lora-latin-wght-normal.woff2": {
+    "file": "assets/lora-latin-wght-normal-BiLcIKcI.woff2",
+    "src": "node_modules/@fontsource-variable/lora/files/lora-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/source-sans-3/files/source-sans-3-latin-ext-wght-normal.woff2": {
+    "file": "assets/source-sans-3-latin-ext-wght-normal-C8iNium2.woff2",
+    "src": "node_modules/@fontsource-variable/source-sans-3/files/source-sans-3-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/source-sans-3/files/source-sans-3-latin-wght-normal.woff2": {
+    "file": "assets/source-sans-3-latin-wght-normal-Bo_j9asI.woff2",
+    "src": "node_modules/@fontsource-variable/source-sans-3/files/source-sans-3-latin-wght-normal.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app--1vV_DVu.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Bc5QXECY.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_copy-OuSB_KiR.js"
+    ]
+  },
+  "resources/js/site.js": {
+    "file": "assets/site-COiaF6Kl.js",
+    "name": "site",
+    "src": "resources/js/site.js",
+    "isEntry": true,
+    "imports": [
+      "_copy-OuSB_KiR.js"
+    ]
+  }
+}

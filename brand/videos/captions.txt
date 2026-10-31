@@ -1,0 +1,4 @@
+# file name | caption shown under the video
+01-before-the-illness.mp4 | "This was the last video before you experienced a simple mouth sore."
+02-his-vows.mp4 | "This is what it looks like when a man truly lives his vows… even on the hardest days."
+03-the-tests-he-needs.mp4 | The moment they learned the tests he needs would cost ₱52,500.

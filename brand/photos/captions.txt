@@ -1,0 +1,7 @@
+# file name | short description (for blind visitors) | caption under the photo
+hero.jpg | David smiling at home, with the marks of his skin disease on his face and arms |
+01-before-portrait.jpg | David before he got sick, smiling in a gray shirt | David, before the illness.
+02-before-together.jpg | David and his wife smiling together at a restaurant, before he got sick | Together, before everything changed.
+03-hospital.jpg | David waiting at the hospital with IV lines taped to both arms | Another long day at the hospital.
+04-together-now.jpg | David's wife laughing with her head on David's shoulder | His wife, by his side every day.
+05-baking.jpg | David's wife decorating a cake to sell | She bakes and sells sweets to help pay for his care.

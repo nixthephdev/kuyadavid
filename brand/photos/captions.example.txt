@@ -1,0 +1,4 @@
+# Copy to captions.txt (optional). One photo per line:
+# file name | short description (for blind visitors) | caption under the photo (optional)
+hero.jpg | David and his wife at home |
+hospital-2024.jpg | David resting in his hospital bed | A hard week, but he kept smiling.
